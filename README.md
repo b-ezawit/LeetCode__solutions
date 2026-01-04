@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/b-ezawit/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/b-ezawit/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/b-ezawit/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/b-ezawit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Backtracking
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
