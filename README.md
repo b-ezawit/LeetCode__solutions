@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/b-ezawit/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/b-ezawit/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/b-ezawit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/b-ezawit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/b-ezawit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/b-ezawit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/b-ezawit/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/b-ezawit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
