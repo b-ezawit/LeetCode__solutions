@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1108-defanging-an-ip-address](https://github.com/b-ezawit/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sliding Window
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/b-ezawit/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
