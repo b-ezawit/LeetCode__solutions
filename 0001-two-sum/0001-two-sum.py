@@ -5,19 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        l =0
-        r = 1
-        res =[]
-        while l<len(nums):
-            if r ==len(nums):
-                l += 1
-                r = l+1
-                continue
+        difference_holder = defaultdict(int)
 
-            if nums[l] +nums[r]==target:
-                res.append(l)
-                res.append(r)
-                return res
-            else:
-                r += 1
-    
+        for i in range(len(nums)):
+            if nums[i] in difference_holder:
+                return [difference_holder[nums[i]], i]
+            difference = target - nums[i]
+            difference_holder[difference] = i
+        
+            
