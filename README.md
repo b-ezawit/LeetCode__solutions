@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -189,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
