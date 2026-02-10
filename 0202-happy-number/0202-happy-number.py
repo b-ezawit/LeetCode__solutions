@@ -6,19 +6,20 @@ class Solution(object):
         """
         visit = set()
 
-        def recursion_solution(n):
-            if n in visit:
+        def recursion_solution(num):
+            if num in visit:
                 return False
-            if n == 1:
+            if num == 1:
                 return True
-            visit.add(n)
-            n_str = str(n)
-            sum_digits = 0
-            for c in n_str:
-                sum_digits += int(c) ** 2
+            visit.add(num)
+            num_str = str(num)
 
-            n = sum_digits
+            sum_digits = 0
+            for char in num_str:
+                sum_digits += int(char) ** 2
+
+            num = sum_digits
             
-            return recursion_solution(n)
+            return recursion_solution(num)
         
         return recursion_solution(n)
