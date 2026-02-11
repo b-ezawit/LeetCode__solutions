@@ -33,7 +33,7 @@ class Solution(object):
                 result += roman[s[left]]
                 left += 1
                 right += 1
-            print(result)
+        
         
         if left < len(s):
             result += roman[s[left]]
