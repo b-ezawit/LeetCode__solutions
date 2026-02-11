@@ -4,15 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        #using counter:
-        '''
-        nums_count = Counter(nums)
-        for k,freq in nums_count.items():
-            if freq > 1:
-                return True
-        return False
-        '''
 
+        '''
         #using 2 ptrs:
         if len(nums) == 1:
             return False
@@ -24,4 +17,22 @@ class Solution(object):
             left += 1
             right += 1
         return False
-      
+        '''
+
+        #using counter:
+        '''
+        nums_count = Counter(nums)
+        for k,freq in nums_count.items():
+            if freq > 1:
+                return True
+        return False
+        '''
+        
+        #using set:
+        if len(nums) > len(set(nums)):
+            return True
+
+        return False
+
+       
+        
