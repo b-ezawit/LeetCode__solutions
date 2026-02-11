@@ -5,14 +5,15 @@ class Solution(object):
         :rtype: bool
         """
         #using counter:
+        '''
         nums_count = Counter(nums)
         for k,freq in nums_count.items():
             if freq > 1:
                 return True
         return False
+        '''
 
         #using 2 ptrs:
-        '''
         if len(nums) == 1:
             return False
         nums.sort()
@@ -20,5 +21,7 @@ class Solution(object):
         while right<len(nums):
             if nums[left] == nums[right]:
                 return True
+            left += 1
+            right += 1
         return False
-        '''
+      
