@@ -36,8 +36,7 @@ class RandomizedSet(object):
         """
         :rtype: int
         """
-        randomIndx = random.randint(0 , len(self.values)-1)
-        return self.values[randomIndx]
+        return random.choice(self.values)
 
    
 
