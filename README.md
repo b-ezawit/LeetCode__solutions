@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/b-ezawit/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/b-ezawit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/b-ezawit/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/b-ezawit/LeetCode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/b-ezawit/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/b-ezawit/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/b-ezawit/LeetCode/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/b-ezawit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/b-ezawit/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/b-ezawit/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/b-ezawit/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/b-ezawit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/b-ezawit/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/b-ezawit/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/b-ezawit/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/b-ezawit/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/b-ezawit/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/b-ezawit/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/b-ezawit/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/b-ezawit/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/b-ezawit/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
