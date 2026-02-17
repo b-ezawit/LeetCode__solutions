@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/b-ezawit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
 ## Greedy
 |  |
 | ------- |
