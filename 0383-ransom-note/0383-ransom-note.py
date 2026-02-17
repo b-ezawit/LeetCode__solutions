@@ -5,13 +5,17 @@ class Solution(object):
         :type magazine: str
         :rtype: bool
         """
-        ransomCount = Counter(ransomNote)
-        magazineCount = Counter(magazine)
+        hmap = {}
 
-        for val,freq in ransomCount.items():
-            if freq > magazineCount[val]:
-                return False
-
-        return True
- 
+        for char in magazine:
+            hmap[char] = hmap.get(char, 0) + 1
         
+        for r in ransomNote:
+            if r not in hmap:
+                return False
+            
+            hmap[r]  -= 1
+            if hmap[r] < 0:
+                return False
+        return True
+    
