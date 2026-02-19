@@ -4,16 +4,21 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        #using counter:
-        s_count = Counter(s)
-        s_sorted = sorted(s_count.items(), key=lambda x:x[1])
+        hmap = {}
+        for char in s:
+            hmap[char] = hmap.get(char,0) + 1
+
+        sorted_s = sorted(hmap.items(),key=lambda x : x[1])
         ans = ""
-        for val,freq in s_sorted:
-            while freq > 0:
-                ans += val
-                freq -= 1
+        
+        for val,freq in sorted_s:
+            if freq>0:
+                ans += val*freq
         
         return ans[::-1]
+
+
+
         
 
 
