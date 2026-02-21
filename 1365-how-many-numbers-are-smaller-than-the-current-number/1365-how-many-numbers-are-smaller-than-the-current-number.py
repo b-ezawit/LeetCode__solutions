@@ -4,11 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-       
-        sortNums = sorted(nums)
-        numMap = {}
-        for i,num in enumerate(sortNums):
-            if num not in numMap:
-                numMap[num] = i
+        nums_sorted = sorted(nums)
+        hmap = {}
 
-        return [numMap[num] for num in nums]
+        for i,n in enumerate(nums_sorted):
+            if n not in hmap:
+                hmap[n] = i
+        
+        for i in range(len(nums)):
+            nums[i] = hmap[nums[i]]
+        
+        return nums
