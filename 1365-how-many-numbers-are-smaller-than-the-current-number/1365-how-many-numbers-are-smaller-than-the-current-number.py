@@ -11,7 +11,4 @@ class Solution(object):
             if n not in hmap:
                 hmap[n] = i
         
-        for i in range(len(nums)):
-            nums[i] = hmap[nums[i]]
-        
-        return nums
+        return [hmap[n] for n in nums]
