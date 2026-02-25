@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/b-ezawit/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/b-ezawit/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/b-ezawit/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/b-ezawit/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b-ezawit/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/b-ezawit/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/b-ezawit/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b-ezawit/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/b-ezawit/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/b-ezawit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Search
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/b-ezawit/LeetCode/tree/master/0292-nim-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Number Theory
 |  |
 | ------- |
