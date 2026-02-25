@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/b-ezawit/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/b-ezawit/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/b-ezawit/LeetCode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/b-ezawit/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/b-ezawit/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## String
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/b-ezawit/LeetCode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/b-ezawit/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/b-ezawit/LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Counting
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/b-ezawit/LeetCode/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/b-ezawit/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/b-ezawit/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
