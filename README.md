@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/b-ezawit/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/b-ezawit/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/b-ezawit/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/b-ezawit/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/b-ezawit/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/b-ezawit/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/b-ezawit/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/b-ezawit/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/b-ezawit/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/b-ezawit/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/b-ezawit/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/b-ezawit/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/b-ezawit/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
