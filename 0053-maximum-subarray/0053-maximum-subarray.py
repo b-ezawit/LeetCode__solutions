@@ -1,14 +1,8 @@
-class Solution(object):
-    def maxSubArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        currsum = maxsum = nums[0]
-
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        max_sum = curr_sum = nums[0]
         for i in range(1,len(nums)):
-            currsum = max(nums[i], currsum+nums[i])
-            maxsum = max(currsum,maxsum)
-        
-        return maxsum
-    
+            n = nums[i]
+            curr_sum = max(curr_sum+n,n)
+            max_sum = max(max_sum,curr_sum)
+        return max_sum
