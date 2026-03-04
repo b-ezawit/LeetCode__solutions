@@ -1,27 +1,19 @@
-class Solution(object):
-    def subarraySum(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        sr = 0
-        sum_map = defaultdict(int)
-        sum_map[0] = 1
-        count = 0
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        
+        #hmap = {total_of_subarr: freq}
 
-        for i in range(len(nums)):
-            sr += nums[i]
-            if sr-k in sum_map:
-                count += sum_map[sr-k]
-            
-                
-            sum_map[sr] += 1
+        #total=2
+        #{0:1 , 1:1}
+        hmap  = {}
+        hmap[0] = 1
+        count = total = 0
+
+        for n in nums:
+            total += n
+            if total-k in hmap:
+                count += hmap[total-k]
+
+            hmap[total] = hmap.get(total , 0) +  1
+
         return count
-        
-            
-
-
-
-
-        
