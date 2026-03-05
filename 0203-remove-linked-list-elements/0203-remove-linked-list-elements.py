@@ -15,10 +15,8 @@ class Solution(object):
         curr = dummy
         while curr.next :
             if curr.next.val == val:
-                temp = curr.next
                 curr.next = curr.next.next
-                temp.next = None
-                del temp
+
             else:
                 curr = curr.next
         return dummy.next
