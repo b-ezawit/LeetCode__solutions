@@ -2,16 +2,19 @@ class RecentCounter(object):
 
     def __init__(self):
         self.requests = []
+        self.start = 0
 
     def ping(self, t):
         """
         :type t: int
         :rtype: int
         """
-        while self.requests and t - self.requests[0] > 3000:
-            self.requests.pop(0)
+        while self.start < len(self.requests) and t-self.requests[self.start] >  3000:
+            self.start += 1
+            
+
         self.requests.append(t)
-        return len(self.requests)
+        return len(self.requests) - self.start
         
 
 
