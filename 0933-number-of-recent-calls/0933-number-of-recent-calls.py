@@ -1,8 +1,7 @@
 class RecentCounter(object):
 
     def __init__(self):
-        self.requests = []
-        self.start = 0
+        self.requests = deque()
 
 
     def ping(self, t):
@@ -10,11 +9,10 @@ class RecentCounter(object):
         :type t: int
         :rtype: int
         """
-        while self.start<len(self.requests) and t-self.requests[self.start] > 3000:
-            self.start += 1
+        while self.requests and t-self.requests[0] > 3000:
+            self.requests.popleft()
         self.requests.append(t)
-        return len(self.requests) - self.start
-            
+        return len(self.requests)
 
 
 # Your RecentCounter object will be instantiated and called as such:
