@@ -1,16 +1,11 @@
-class Solution(object):
-    def minOperations(self, logs):
-        """
-        :type logs: List[str]
-        :rtype: int
-        """
+class Solution:
+    def minOperations(self, logs: List[str]) -> int:
         stack = []
-        for s in logs:
-            if s == "./":
+        for dir in logs:
+            if stack and dir == "../":
+                stack.pop()
+            elif dir == "./" or dir=="../":
                 continue
-            elif s == "../":
-                if stack:
-                    stack.pop()
             else:
-                stack.append(s)
-        return len(stack)        
+                stack.append(dir)
+        return len(stack)
