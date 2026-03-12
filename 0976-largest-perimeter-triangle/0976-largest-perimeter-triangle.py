@@ -1,9 +1,5 @@
-class Solution(object):
-    def largestPerimeter(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def largestPerimeter(self, nums: List[int]) -> int:
         nums.sort()
         for i in range(len(nums)-1,-1,-1):
             if i < 2:
@@ -11,6 +7,7 @@ class Solution(object):
             a = nums[i]
             b = nums[i-1]
             c = nums[i-2]
-            if b+c > a:
+
+            if b + c > a:
                 return a+b+c
-        return 0
+        return 0    
