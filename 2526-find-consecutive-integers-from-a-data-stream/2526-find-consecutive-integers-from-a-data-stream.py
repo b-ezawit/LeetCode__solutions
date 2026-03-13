@@ -5,9 +5,11 @@ class DataStream(object):
         :type value: int
         :type k: int
         """
+        self.nums = deque()
         self.value = value
-        self.k = k 
-        self.stream = deque()
+        self.k = k
+
+
         
 
     def consec(self, num):
@@ -17,17 +19,20 @@ class DataStream(object):
         """
 
         if num != self.value:
-            self.stream.clear()
+            self.nums.clear()
         else:
-            self.stream.append(num)
-        if self.k < len(self.stream):
-             self.stream.popleft()
+            self.nums.append(num)
+        
+        if len(self.nums) > self.k:
+            self.nums.popleft()
+        
+        return len(self.nums) == self.k
 
-        if len(self.stream) == self.k:
-            return True
-        return False
+
+        
+        
 
 
-# Your DataStream object will be instantpiated and called as such:
+# Your DataStream object will be instantiated and called as such:
 # obj = DataStream(value, k)
 # param_1 = obj.consec(num)
