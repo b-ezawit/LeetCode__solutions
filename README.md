@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/b-ezawit/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/b-ezawit/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/b-ezawit/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/b-ezawit/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/b-ezawit/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/b-ezawit/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/b-ezawit/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/b-ezawit/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/b-ezawit/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b-ezawit/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/b-ezawit/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/b-ezawit/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/b-ezawit/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/b-ezawit/LeetCode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/b-ezawit/LeetCode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/b-ezawit/LeetCode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/b-ezawit/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/b-ezawit/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
