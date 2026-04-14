@@ -12,9 +12,12 @@ class Solution(object):
         #nums = [4,3,2,7,8,2,3,1]
         #n=8, possible values=[1,2,3,4,5,6,7,8] 
         #              index:  0 1 2 3 4 5 6 7
+
+
+        # nums = [4,-3,-2,-7,8,2,-3,-1]
         ans = []
-        for n in nums:
-            if nums[abs(n)-1] < 0:
+        for n in nums:#n=-3
+            if nums[abs(n)-1] < 0:#nums[0] 
                 ans.append(abs(n))
             else:
                 nums[abs(n)-1] = -nums[abs(n)-1]
