@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/b-ezawit/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/b-ezawit/LeetCode/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/b-ezawit/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/b-ezawit/LeetCode/tree/master/0791-custom-sort-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/b-ezawit/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/b-ezawit/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/b-ezawit/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/b-ezawit/LeetCode/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/b-ezawit/LeetCode/tree/master/0739-daily-temperatures) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/b-ezawit/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/b-ezawit/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/b-ezawit/LeetCode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/b-ezawit/LeetCode/tree/master/0969-pancake-sorting) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/b-ezawit/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/b-ezawit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/b-ezawit/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/b-ezawit/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
