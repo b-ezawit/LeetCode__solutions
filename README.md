@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/b-ezawit/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/b-ezawit/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/b-ezawit/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/b-ezawit/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/b-ezawit/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/b-ezawit/LeetCode/tree/master/1528-shuffle-string) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/b-ezawit/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/b-ezawit/LeetCode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/b-ezawit/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/b-ezawit/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/b-ezawit/LeetCode/tree/master/2671-frequency-tracker) |
 ## Randomized
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/b-ezawit/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/b-ezawit/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Stack
 |  |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/b-ezawit/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/b-ezawit/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/b-ezawit/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/b-ezawit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -569,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/b-ezawit/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
