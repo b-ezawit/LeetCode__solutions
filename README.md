@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/b-ezawit/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/b-ezawit/LeetCode/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/b-ezawit/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/b-ezawit/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/b-ezawit/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/b-ezawit/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/b-ezawit/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/b-ezawit/LeetCode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/b-ezawit/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/b-ezawit/LeetCode/tree/master/1922-count-good-numbers) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/b-ezawit/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/b-ezawit/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/b-ezawit/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/b-ezawit/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/b-ezawit/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/b-ezawit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/b-ezawit/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/b-ezawit/LeetCode/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/b-ezawit/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/b-ezawit/LeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/b-ezawit/LeetCode/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/b-ezawit/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Number Theory
 |  |
