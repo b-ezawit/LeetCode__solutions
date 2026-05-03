@@ -557,11 +557,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/b-ezawit/LeetCode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b-ezawit/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/b-ezawit/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/b-ezawit/LeetCode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b-ezawit/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/b-ezawit/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/b-ezawit/LeetCode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b-ezawit/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/b-ezawit/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -597,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/b-ezawit/LeetCode/tree/master/1472-design-browser-history) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/b-ezawit/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
