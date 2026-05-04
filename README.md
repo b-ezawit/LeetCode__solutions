@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/b-ezawit/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/b-ezawit/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/b-ezawit/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0885-spiral-matrix-iii](https://github.com/b-ezawit/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/b-ezawit/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/b-ezawit/LeetCode/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/b-ezawit/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/b-ezawit/LeetCode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/b-ezawit/LeetCode/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/b-ezawit/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/b-ezawit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/b-ezawit/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/b-ezawit/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/b-ezawit/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/b-ezawit/LeetCode/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/b-ezawit/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/b-ezawit/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/b-ezawit/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/b-ezawit/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
